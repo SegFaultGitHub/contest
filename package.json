@@ -1,0 +1,19 @@
+{
+  "name": "contest",
+  "version": "1.0.0",
+  "description": "NodeJS app for making and handling contests",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SegFaultGitHub/contest.git"
+  },
+  "author": "Thomas VENNER",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SegFaultGitHub/contest/issues"
+  },
+  "homepage": "https://github.com/SegFaultGitHub/contest#readme"
+}
